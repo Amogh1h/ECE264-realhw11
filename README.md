@@ -1,6 +1,6 @@
 # HW11-XMLParser
 
-# Overview  
+# Overview
 In this assignment, you will implement a recursive XML parser in C that extracts book titles from an XML file and displays them in alphabetical order. The parser should handle various edge cases including malformed XML, empty files, and files without title tags.
 
 # XML File Example
